@@ -1,4 +1,4 @@
-package Day02_Count_Odd_Digits;
+package Topic_01_Learn_the_Basics.Day02_Count_Odd_Digits;
 
 public class CountOddDigit {
     public int countOddDigit(int n) {

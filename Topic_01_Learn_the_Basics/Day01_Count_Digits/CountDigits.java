@@ -1,4 +1,4 @@
-package Day01_Count_Digits;
+package Topic_01_Learn_the_Basics.Day01_Count_Digits;
 
 public class CountDigits {
     public int countDigit(int n) {
