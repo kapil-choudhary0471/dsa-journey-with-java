@@ -25,20 +25,21 @@ The goal is simple:
 
 # 📅 Daily Progress
 
-| Day | Topic  | Problem                                | Status |
-| --: | ------ | -------------------------------------- | :----: |
-|   1 | Basics | Count all Digits of a Number           |   ✅   |
-|   2 | Basics | Count Number of Odd Digits in a Number |   ✅   |
-|   3 | Basics | Reverse a Number                       |   ✅   |
+| Day | Topic  | Problem                                |Status |
+| --: | ------ | -------------------------------------- |:----: |
+| 1   | Basics | Count all Digits of a Number           | ✅    |
+| 2   | Basics | Count Number of Odd Digits in a Number | ✅    |
+| 3   | Basics | Reverse a Number                       | ✅    |
+| 4   | Basics | Palindrome Number                      | ✅    |
 
 ---
 
 # 📊 Current Statistics
 
-* **Problems Solved:** 3
-* **Current Day:** 3
-* **Current Streak:** 🔥 2 Days
-* **Longest Streak:** 🔥 2 Days
+Problems Solved: 4
+Current Day: 4
+Current Streak: 4
+Longest Streak: 4
 
 ---
 
