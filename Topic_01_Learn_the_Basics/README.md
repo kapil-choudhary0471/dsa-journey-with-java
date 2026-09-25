@@ -31,15 +31,15 @@ The goal is simple:
 | 2   | Basics | Count Number of Odd Digits in a Number | ✅    |
 | 3   | Basics | Reverse a Number                       | ✅    |
 | 4   | Basics | Palindrome Number                      | ✅    |
-
+| 5   | Basics | Largest Digit in a Number              | ✅    | 
 ---
 
 # 📊 Current Statistics
 
-Problems Solved: 4
-Current Day: 4
-Current Streak: 4
-Longest Streak: 4
+Problems Solved: 5
+Current Day: 5
+Current Streak: 5
+Longest Streak: 5
 
 ---
 
@@ -89,7 +89,7 @@ For every problem, I try to:
 
 # 🏆 Milestones
 
-* [✅] 🚀 Started the DSA journey
+* [📌] 🚀 Started the DSA journey
 * [ ] 🎯 7 Days
 * [ ] 🎯 30 Days
 * [ ] 🎯 50 Days
