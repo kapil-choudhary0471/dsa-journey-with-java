@@ -32,14 +32,15 @@ The goal is simple:
 | 3   | Basics | Reverse a Number                       | ✅    |
 | 4   | Basics | Palindrome Number                      | ✅    |
 | 5   | Basics | Largest Digit in a Number              | ✅    | 
+| 6   | Basics | Factorial of a Number                  | ✅    |
 ---
 
 # 📊 Current Statistics
 
-Problems Solved: 5
-Current Day: 5
-Current Streak: 5
-Longest Streak: 5
+Problems Solved: 6
+Current Day: 6
+Current Streak: 6
+Longest Streak: 6
 
 ---
 
