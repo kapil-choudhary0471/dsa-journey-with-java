@@ -33,14 +33,15 @@ The goal is simple:
 | 4   | Basics | Palindrome Number                      | ✅    |
 | 5   | Basics | Largest Digit in a Number              | ✅    | 
 | 6   | Basics | Factorial of a Number                  | ✅    |
+| 7   | Basics | Armstrong Number                       | ✅    |
 ---
 
 # 📊 Current Statistics
 
-Problems Solved: 6
-Current Day: 6
-Current Streak: 6
-Longest Streak: 6
+Problems Solved: 7
+Current Day: 7
+Current Streak: 7
+Longest Streak: 7
 
 ---
 
@@ -90,8 +91,8 @@ For every problem, I try to:
 
 # 🏆 Milestones
 
-* [📌] 🚀 Started the DSA journey
-* [ ] 🎯 7 Days
+* ✅  🚀 Started the DSA journey
+* ✅  🎯 7 Days
 * [ ] 🎯 30 Days
 * [ ] 🎯 50 Days
 * [ ] 🎯 100 Days
