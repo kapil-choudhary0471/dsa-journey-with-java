@@ -34,14 +34,16 @@ The goal is simple:
 | 5   | Basics | Largest Digit in a Number              | ✅    | 
 | 6   | Basics | Factorial of a Number                  | ✅    |
 | 7   | Basics | Armstrong Number                       | ✅    |
+| 8   | Basics | Perfect Number                         | ✅    |
+
 ---
 
 # 📊 Current Statistics
 
-Problems Solved: 7
-Current Day: 7
-Current Streak: 7
-Longest Streak: 7
+Problems Solved: 8
+Current Day: 8
+Current Streak: 8
+Longest Streak: 8
 
 ---
 
