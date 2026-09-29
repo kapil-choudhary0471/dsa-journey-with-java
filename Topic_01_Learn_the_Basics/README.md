@@ -35,15 +35,16 @@ The goal is simple:
 | 6   | Basics | Factorial of a Number                  | ✅    |
 | 7   | Basics | Armstrong Number                       | ✅    |
 | 8   | Basics | Perfect Number                         | ✅    |
+| 9   | Basics | Prime Number                           | ✅    |
 
 ---
 
 # 📊 Current Statistics
 
-Problems Solved: 8
-Current Day: 8
-Current Streak: 8
-Longest Streak: 8
+Problems Solved: 9
+Current Day: 9
+Current Streak: 9
+Longest Streak: 9
 
 ---
 
@@ -103,6 +104,6 @@ For every problem, I try to:
 
 ---
 
-**Started:** September 2026
+**Started:** 21st September 2026
 
 **Goal:** 365 Days of DSA 🚀
