@@ -36,15 +36,21 @@ The goal is simple:
 | 7   | Basics | Armstrong Number                       | ✅    |
 | 8   | Basics | Perfect Number                         | ✅    |
 | 9   | Basics | Prime Number                           | ✅    |
+| 10  | Basics | Prime Numbers up to N                  | ✅    |
+| 11  | Basics | GCD of Two Numbers                     | ✅    |
+| 12  | Basics | LCM of Two Numbers                     | ✅    |
+| 13  | Basics | Divisors of a Number                   | ✅    |
+| 14  | Basics | Sum of Elements in an Array            | ✅    |
+| 15  | Basics | Count Odd Elements in an Array         | ✅    |
 
 ---
 
 # 📊 Current Statistics
 
-Problems Solved: 9
-Current Day: 9
-Current Streak: 9
-Longest Streak: 9
+Problems Solved: 15
+Current Day: 15
+Current Streak: 🔥 15 Days
+Longest Streak: 🔥 15 Days
 
 ---
 
@@ -94,8 +100,8 @@ For every problem, I try to:
 
 # 🏆 Milestones
 
-* ✅  🚀 Started the DSA journey
-* ✅  🎯 7 Days
+ ✅  🚀 Started the DSA journey
+ ✅  🎯 7 Days
 * [ ] 🎯 30 Days
 * [ ] 🎯 50 Days
 * [ ] 🎯 100 Days
