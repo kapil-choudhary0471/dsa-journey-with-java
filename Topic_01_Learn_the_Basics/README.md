@@ -42,15 +42,16 @@ The goal is simple:
 | 13  | Basics | Divisors of a Number                   | ✅    |
 | 14  | Basics | Sum of Elements in an Array            | ✅    |
 | 15  | Basics | Count Odd Elements in an Array         | ✅    |
+| 16  | Basics | Check if Array is Sorted               | ✅    |
 
 ---
 
 # 📊 Current Statistics
 
-Problems Solved: 15
-Current Day: 15
-Current Streak: 🔥 15 Days
-Longest Streak: 🔥 15 Days
+Problems Solved: 16
+Current Day: 16
+Current Streak: 🔥 16 Days
+Longest Streak: 🔥 16 Days
 
 ---
 
@@ -100,8 +101,8 @@ For every problem, I try to:
 
 # 🏆 Milestones
 
- ✅  🚀 Started the DSA journey
- ✅  🎯 7 Days
+* ✅  🚀 Started the DSA journey
+* ✅  🎯 7 Days
 * [ ] 🎯 30 Days
 * [ ] 🎯 50 Days
 * [ ] 🎯 100 Days
