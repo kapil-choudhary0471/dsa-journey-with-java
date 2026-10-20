@@ -53,15 +53,19 @@ The goal is simple:
 | 24 | Patterns | Pattern 7 - Pyramid | Easy | ✅ |
 | 25 | Patterns | Pattern 8 - Inverted Pyramid | Easy | ✅ |
 | 26 | Patterns | Pattern 9 - Diamond Pattern | Easy | ✅ |
+| 27 | Patterns | Pattern 10 - Increasing and Decreasing Star Triangle | Easy | ✅ |
+| 28 | Patterns | Pattern 11 - Binary Number Triangle | Easy | ✅ |
+| 29 | Patterns | Pattern 12 - Number Crown Pattern | Easy | ✅ |
+| 30 | Patterns | Pattern 13 - Increasing Number Triangle | Easy | ✅ |
 
 ---
 
 # 📊 Current Statistics
 
-- **Problems Solved:** 26
-- **Current Day:** 26
-- **Current Streak:** 🔥 26 Days
-- **Longest Streak:** 🔥 26 Days
+- **Problems Solved:** 30
+- **Current Day:** 30
+- **Current Streak:** 🔥 30 Days
+- **Longest Streak:** 🔥 30 Days
 
 ---
 
@@ -114,7 +118,7 @@ For every problem, I try to:
 
 - [x] 🚀 Started the DSA journey
 - [x] 🎯 7 Days
-- [ ] 🎯 30 Days
+- [x] 🎯 30 Days
 - [ ] 🎯 50 Days
 - [ ] 🎯 100 Days
 - [ ] 🎯 180 Days
