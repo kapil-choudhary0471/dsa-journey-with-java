@@ -57,15 +57,35 @@ The goal is simple:
 | 28 | Patterns | Pattern 11 - Binary Number Triangle | Easy | ✅ |
 | 29 | Patterns | Pattern 12 - Number Crown Pattern | Easy | ✅ |
 | 30 | Patterns | Pattern 13 - Increasing Number Triangle | Easy | ✅ |
+| 31 | Patterns | Pattern 14 - Increasing Alphabet Triangle | Easy | ✅ |
+| 32 | Patterns | Pattern 15 - Inverted Alphabet Triangle | Easy | ✅ |
+| 33 | Patterns | Pattern 16 - Repeated Alphabet Triangle | Easy | ✅ |
+| 34 | Patterns | Pattern 17 - Alphabet Pyramid | Easy | ✅ |
+| 35 | Patterns | Pattern 18 - Inverted Alphabet Triangle | Easy | ✅ |
+| 36 | Patterns | Pattern 19 - Butterfly Star Pattern | Easy | ✅ |
+| 37 | Patterns | Pattern 20 - Symmetric Butterfly Star Pattern | Easy | ✅ |
+| 38 | Patterns | Pattern 21 - Hollow Square Pattern | Easy | ✅ |
+| 39 | Patterns | Pattern 22 - Concentric Number Square | Easy | ✅ |
+| 40 | Strings | Palindrome String Check | Easy | ✅ |
+| 41 | Strings | Largest Odd Number in a String | Easy | ✅ |
+| 42 | Strings | Rotate String | Easy | ✅ |
+| 43 | Searching | Linear Search | Easy | ✅ |
+| 44 | Arrays | Largest Element in an Array | Easy | ✅ |
+| 45 | Arrays | Second Largest Element in an Array | Easy | ✅ |
+| 46 | Arrays | Maximum Consecutive Ones | Easy | ✅ |
+| 47 | Arrays | Rotate Array by One (Left Rotation) | Easy | ✅ |
+| 48 | Arrays | Rotate Array by K Positions | Easy | ✅ |
+| 49 | Arrays | Move Zeroes to the End | Easy | ✅ |
+| 50 | Arrays | Remove Duplicates from Sorted Array | Easy | ✅ |
 
 ---
 
 # 📊 Current Statistics
 
-- **Problems Solved:** 30
-- **Current Day:** 30
-- **Current Streak:** 🔥 30 Days
-- **Longest Streak:** 🔥 30 Days
+- **Problems Solved:** 50
+- **Current Day:** 50
+- **Current Streak:** 🔥 50 Days
+- **Longest Streak:** 🔥 50 Days
 
 ---
 
@@ -102,7 +122,7 @@ For every problem, I try to:
 - [ ] Binary Search Trees
 - [ ] Graphs
 - [ ] Dynamic Programming
-- [ ] Patterns
+- [x] Patterns
 
 ---
 
@@ -119,7 +139,7 @@ For every problem, I try to:
 - [x] 🚀 Started the DSA journey
 - [x] 🎯 7 Days
 - [x] 🎯 30 Days
-- [ ] 🎯 50 Days
+- [x] 🎯 50 Days
 - [ ] 🎯 100 Days
 - [ ] 🎯 180 Days
 - [ ] 🏆 365 Days
