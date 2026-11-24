@@ -77,15 +77,30 @@ The goal is simple:
 | 48 | Arrays | Rotate Array by K Positions | Easy | ✅ |
 | 49 | Arrays | Move Zeroes to the End | Easy | ✅ |
 | 50 | Arrays | Remove Duplicates from Sorted Array | Easy | ✅ |
+| 51 | Arrays | Missing Number | Easy | ✅ |
+| 52 | Arrays | Majority Element | Easy | ✅ |
+| 53 | Arrays | Rearrange Array Elements by Sign | Medium | ✅ |
+| 54 | Arrays | Rotate Matrix by 90 Degrees Clockwise | Medium | ✅ |
+| 55 | Arrays | Sort an Array of 0s, 1s and 2s | Medium | ✅ |
+| 56 | Arrays | Set Matrix Zeroes | Medium | ✅ |
+| 57 | Arrays | Two Sum | Easy | ✅ |
+| 58 | Arrays | Most Frequent Element | Easy | ✅ |
+| 59 | Binary Search | Binary Search | Easy | ✅ |
+| 60 | Binary Search | Lower Bound | Easy | ✅ |
+| 61 | Binary Search | Upper Bound | Easy | ✅ |
+| 62 | Binary Search | Search Insert Position | Easy | ✅ |
+| 63 | Binary Search | Find Floor and Ceil | Medium | ✅ |
+| 64 | Binary Search | Find First and Last Position | Medium | ✅ |
+| 65 | Binary Search | Search in Rotated Sorted Array | Medium | ✅ |
 
 ---
 
 # 📊 Current Statistics
 
-- **Problems Solved:** 50
-- **Current Day:** 50
-- **Current Streak:** 🔥 50 Days
-- **Longest Streak:** 🔥 50 Days
+- **Problems Solved:** 65
+- **Current Day:** 65
+- **Current Streak:** 🔥 65 Days
+- **Longest Streak:** 🔥 65 Days
 
 ---
 
